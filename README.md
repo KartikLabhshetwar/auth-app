@@ -1,2 +1,8 @@
-# auth-app
-This is a user authentication system done using mern stack and for authetication i have use jwt for it.
+## Authentication app
+
+which is built using express, node.js, react and mongoDB.
+
+features:
+
+-you can sign up using username and password.
+-you can login as an user if you exist.
